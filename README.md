@@ -1,1 +1,7 @@
-# covid92020
+# India Covid data analysis
+
+This project is to analyse the Indian data on Covid cases, we have data till the month of October 2020. I have also analysed how the situtaions are different accross the differnet states in India. 
+
+
+
+Toward the end, I have also used ARIMA for some forcasting.
