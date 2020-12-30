@@ -4,4 +4,4 @@ This project is to analyse the Indian data on Covid cases, we have data till the
 
 
 
-Toward the end, I have also used ARIMA for some forcasting.
+Towards the end, I have also used ARIMA for some forcasting.
